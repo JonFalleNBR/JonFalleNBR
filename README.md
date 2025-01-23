@@ -7,7 +7,7 @@
 
 
 
-![Jon GitHub stats](https://github-readme-stats.vercel.app/api?username=jonfallenbr&show_icons=true&theme=tokyonight)
+![Jon GitHub stats](https://github-readme-stats.vercel.app/api?username=jonfallenbr&show_icons=true&theme=tokyonight&locale=pt-br)
 
 ## Tecnologias que mais utilizo
 
@@ -19,7 +19,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonfallenbr&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonfallenbr&hide_progress=false&locale=pt-br)
 
 Apaixonado por Tecnologia e todas as infinitas possibilidades, seus impactos na evolução humana e seu valor no dia a dia das pessoas. 
 
