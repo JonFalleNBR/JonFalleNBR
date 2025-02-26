@@ -1,4 +1,4 @@
-### Ola , eu sou o Jonathan Lopes da Silva | Seja bem vindo ao meu Github 👋
+### Hey , my name is Jonathan Lopes da Silva | Welcome to my Github Profile👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.leoesdejuda@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-lopes-b8432a166/) 
@@ -9,7 +9,7 @@
 
 ![Jon GitHub stats](https://github-readme-stats.vercel.app/api?username=jonfallenbr&show_icons=true&theme=tokyonight&locale=pt-br)
 
-## Tecnologias que mais utilizo
+## My Stacks
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp) 
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
