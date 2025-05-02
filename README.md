@@ -41,6 +41,27 @@ Atualmente, foco meu aprendizado nas áreas de **Back-End com Java e .NET**, bus
 
 ---
 
+## 📂 Projetos em Destaque
+
+- 🧾 [**clientes-api**](https://github.com/JonFalleNBR/clientes)  
+  API em Java com Spring Boot para cadastro e consulta de clientes, aplicando boas práticas de REST.
+
+- 🌐 [**clientes-app**](https://github.com/JonFalleNBR/clientes-app)  
+  Aplicação Angular que consome a API de clientes. Interface amigável para cadastro e visualização.
+
+- 📅 [**agenda-api**](https://github.com/JonFalleNBR/agenda-api)  
+  API REST com funcionalidades de agendamento, autenticação, registro e consultas com validações.
+
+- 💻 [**agenda-api-front**](https://github.com/JonFalleNBR/agenda-api-front)  
+  Front-end em Angular da AgendaAPI, com autenticação e gerenciamento de compromissos.
+
+- 🕹️ [**pingpong-game**](https://github.com/JonFalleNBR/PingPongGame)  
+  Jogo clássico do Ping Pong recriado com JavaScript puro e HTML5. Projeto divertido e nostálgico.
+
+> Explore meus repositórios para ver mais projetos, estudos e desafios! 🚀
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,4 +78,3 @@ Atualmente, foco meu aprendizado nas áreas de **Back-End com Java e .NET**, bus
 🚀 Buscando contribuir com projetos, desafios e soluções reais.
 
 ---
-
