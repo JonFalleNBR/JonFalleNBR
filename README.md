@@ -23,7 +23,6 @@
 Sou movido por desafios e apaixonado por resolver problemas através da tecnologia.  
 Atualmente, foco meu aprendizado nas áreas de **Back-End com Java e .NET**, buscando sempre crescer como desenvolvedor e contribuir com soluções de impacto.
 
-> “Você diz isso como se desenvolvedores e humanidade fossem duas coisas diferentes. Devs não são máquinas. Ainda são humanos.” – *Adaptado de Halo 4*
 
 ---
 
