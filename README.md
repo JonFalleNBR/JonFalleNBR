@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Jonathan Lopes da Silva</h1>
-<h3 align="center">Desenvolvedor em constante evolução | Apaixonado por tecnologia</h3>
+<h3 align="center">Desenvolvedor em constante evolução </h3>
 
 <p align="center">
   <a href="mailto:jonathan.leoesdejuda@gmail.com">
