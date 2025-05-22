@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Commits%20em%202024-94-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Media%20Commits%20por%20dia-~2.3-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20FullStack-important?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Fortalecendo%20Fundamentos-important?style=flat-square"/>
   <img src="https://img.shields.io/badge/Java%20&%20.NET-Ativo%20no%20Back--End-success?style=flat-square"/>
 </p>
 
