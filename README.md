@@ -29,7 +29,7 @@
 ## 🧠 Sobre mim
 
 Sou movido por desafios e apaixonado por resolver problemas através da tecnologia.  
-Atualmente, foco meu aprendizado nas áreas de **Back-End com Java e .NET**, buscando sempre crescer como desenvolvedor e contribuir com soluções de impacto.
+Atualmente, foco meu aprendizado nas áreas de **Back-End com Java/Kotlin e .NET com a linguagem C#** , buscando sempre crescer como desenvolvedor e contribuir para minha carreira na área de Tecnologia e Inovação.
 
 
 ---
