@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Jonathan Lopes da Silva</h1>
-<h3 align="center">Desenvolvedor Bck-End em constante evolução </h3>
+<h3 align="center">Desenvolvedor Back-End em constante evolução </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits%20em%202024-94-blue?style=flat-square"/>
