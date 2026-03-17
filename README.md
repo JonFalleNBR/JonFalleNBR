@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá, eu sou Jonathan Lopes da Silva</h1>
-<h3 align="center">Desenvolvedor Back-End em constante evolução </h3>
+<h1 align="center">👋 Welcome to my Github, I'm Jonathan Lopes</h1>
+<h3 align="center">Back-End Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits%20em%202024-94-blue?style=flat-square"/>
@@ -25,15 +25,18 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me 
 
-Sou movido por desafios e apaixonado por resolver problemas através da tecnologia.  
-Atualmente, foco meu aprendizado nas áreas de **Back-End com Java/Kotlin e .NET com a linguagem C#** , buscando sempre crescer como desenvolvedor e contribuir para minha carreira na área de Tecnologia e Inovação.
+I'm a software developer with 5 years of experience, passionate about reaching my full potential and improve my skills even more. As a BackEnd Developer, My main stacks includes Java(versions 11, 17 and 21), Spring and Spring Boot, and also I acquired knowledge and expercience with .NET Framework and all the most important tools in the Microsoft Ecosystem, which includes C# and SQL Server as ORM and database due the fact I worked at the biggest private Bank in Latin America. However, I have Focused in the FrontEnd Stacks and trying to migrate my field of work to become a fully and expertise FullStack Developer. I've already experience with Angular Framework, React and of course, TypeScript. 
+
+My main Goal now is become the best as I can, and put my skills and Abilities in practice, not just to identify my weakenesses, as to Improve my Strengths. 
+
+You can contact my by Email and Linkedin to Professional Topics and colabs. 
 
 
 ---
 
-## 🚀 Minhas Stacks
+## 🚀 My Stacks
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -46,7 +49,7 @@ Atualmente, foco meu aprendizado nas áreas de **Back-End com Java/Kotlin e .NET
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 📂 Projetos em Destaque
+## 📂 Most Important Projects
 
 - 🧾 [**clientes-api**](https://github.com/JonFalleNBR/clientes)  
   API em Java com Spring Boot para cadastro e consulta de clientes, aplicando boas práticas de REST.
@@ -63,7 +66,6 @@ Atualmente, foco meu aprendizado nas áreas de **Back-End com Java/Kotlin e .NET
 - 🕹️ [**pingpong-game**](https://github.com/JonFalleNBR/PingPongGame)  
   Jogo clássico do Ping Pong recriado com JavaScript puro e HTML5. Projeto divertido e nostálgico.
 
-> Explore meus repositórios para ver mais projetos, estudos e desafios! 🚀
 
 ---
 
@@ -73,13 +75,5 @@ Atualmente, foco meu aprendizado nas áreas de **Back-End com Java/Kotlin e .NET
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonfallenbr&show_icons=true&theme=tokyonight&locale=pt-br"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonfallenbr&layout=compact&hide_progress=false&locale=pt-br&theme=tokyonight"/>
 </div>
-
----
-
-## 💡 Em constante evolução
-
-🧩 Sempre buscando aprender mais sobre arquitetura de sistemas, boas práticas, testes, APIs RESTful e integração com front-end.  
-🌱 Estudando com foco para crescer como desenvolvedor Full Stack.  
-🚀 Buscando contribuir com projetos, desafios e soluções reais.
 
 ---
