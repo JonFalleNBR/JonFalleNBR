@@ -2,7 +2,6 @@
 <h3 align="center">Back-End Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits%20em%202024-94-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Fortalecendo%20Fundamentos-important?style=flat-square"/>
   <img src="https://img.shields.io/badge/Java%20&%20.NET-Ativo%20no%20Back--End-success?style=flat-square"/>
 </p>
